@@ -13,7 +13,8 @@ les handle twitters, les adresses mails et les code postaux des Mairies de trois
 Puis dans un second temps on cherche à follow leur compte twitter et leur envoyer un mail à chacunes.
 
 
-```UltimateTownHall
+```
+UltimateTownHall
 ├── .gitignore #Permet d'ignoré certains fichiers
 ├── .env (pas sur le répo GitHub, bien entendu 😉)
 ├── README.md #T'es en train de lire ^^
