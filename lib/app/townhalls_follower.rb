@@ -23,22 +23,22 @@ def follow_all
 
 	extract_json
 
-	i = 0 
+	handles.each do |departement, v_dep|
 
-   	while i < handles.legth
+		v_dep.each do |town, vtown|
 
-   		#initialise l'API Twitter REST
-		client = Twitter::REST::Client.new do |config|
-			config.consumer_key = ENV["TWITTER_API_KEY"]
-			config.consumer_secret = ENV["TWITTER_SECRET_KEY"]
-			config.access_token = ENV["TWITTER_ACCESS_TOKEN"]
-			config.access_token_secret = ENV["TWITTER_ACESS_TOKEN_SECRET"]
+	   		#initialise l'API Twitter REST
+			client = Twitter::REST::Client.new do |config|
+				config.consumer_key = ENV["TWITTER_API_KEY"]
+				config.consumer_secret = ENV["TWITTER_SECRET_KEY"]
+				config.access_token = ENV["TWITTER_ACCESS_TOKEN"]
+				config.access_token_secret = ENV["TWITTER_ACESS_TOKEN_SECRET"]
+			end
+
+			#follow de chaque handles du hash 	
+			client.follow('#{v_town["handle_twitter"]}')
+
 		end
-
-	#follow de chaque handles du hash 	
-	client.follow('#{handles[i][3]')
-
-	i+=1 
 
    	end 
 
@@ -47,4 +47,3 @@ end
 
 
 
-	#
