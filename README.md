@@ -44,6 +44,7 @@ Axel Ringard|@Axel
 
 ### NOTES IMPORTANTES
 <ol><li>Pensez à bien lancer un <em>"bundle install"</em> une fois positionné dans le dossier avant de lancer le programme</li>
+    <li> Avant de lancer le programme, pensez à insérer vos clés d'API Twitter dans le .env situé à la racine du dossier du projet. Celui-ci est préformaté. Vous n'avez plus qu'à mettre les clés entre guillemets"
     <li><p>Pour lancer le programme : app.rb</p></lu>
     </li>
     <li>Lorsque vous en serez à lancer le Adder (choix #3), le programme met un certain temps à tourner dû au nombre important de handles a récupérer. On vous propose une version allégée de la base de données dans "<em>db/townhalls_contact_sample.json</em>". Vous pouvez donc remplacer le contenu du fichier "<em>db/townhall_contact.json</em>" par celui ci pour tester le programme sans que celà ne prenne des heures.</li>
