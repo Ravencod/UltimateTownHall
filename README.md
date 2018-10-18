@@ -29,8 +29,6 @@ Cedric Soares|@iCedric
 Jonathan Mete|@JonathanMete
 Axel Ringard|@Axel
 
-<p><em>Travail réalisé en pair-programming</em></p>
-
 ### NOTES IMPORTANTES
 <ol>Pensez à bien lancer un<em>"bundle install"</em> une fois positionné dans le dossier avant de lancer le programme</li>
              <p>Pour lancer le programme : index.rb</p>
