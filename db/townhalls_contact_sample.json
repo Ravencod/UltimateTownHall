@@ -1,0 +1,320 @@
+{
+  "vendee": {
+    "AIZENAY": {
+      "name": "AIZENAY",
+      "email": "contact@mairie-aizenay.fr",
+      "postalcode": "85190",
+      "handle_twitter": "@FranckRoy85"
+    },
+    "ANGLES": {
+      "name": "ANGLES",
+      "email": "mairie@angles.fr",
+      "postalcode": "85750",
+      "handle_twitter": "@Angels"
+    },
+    "ANTIGNY": {
+      "name": "ANTIGNY",
+      "email": "antigny85.commune@wanadoo.fr",
+      "postalcode": "85120",
+      "handle_twitter": "@AntignyMSA"
+    },
+    "APREMONT": {
+      "name": "APREMONT",
+      "email": "mairie.apremont85@wanadoo.fr",
+      "postalcode": "85220",
+      "handle_twitter": "N/A"
+    },
+    "AUBIGNY": {
+      "name": "AUBIGNY",
+      "email": "contact@mairie-aubigny.fr",
+      "postalcode": "85430",
+      "handle_twitter": "@CeciledAubigny"
+    },
+    "GROSBREUIL": {
+      "name": "GROSBREUIL",
+      "email": "mairie.grosbreuil@wanadoo.fr",
+      "postalcode": "85440",
+      "handle_twitter": "@campuscom"
+    },
+    "GRUES": {
+      "name": "GRUES",
+      "email": "mairie.grues@wanadoo.fr",
+      "postalcode": "85580",
+      "handle_twitter": "N/A"
+    },
+    "JARD SUR MER": {
+      "name": "JARD SUR MER",
+      "email": "mairie@ville-jardsurmer.fr",
+      "postalcode": "85520",
+      "handle_twitter": "@OTJardsurmer"
+    },
+    "LA BARRE DE MONTS": {
+      "name": "LA BARRE DE MONTS",
+      "email": "mairie@ville-labarredemonts.fr",
+      "postalcode": "85550",
+      "handle_twitter": "@Otfromentine"
+    },
+    "LA BERNARDIERE": {
+      "name": "LA BERNARDIERE",
+      "email": "mairie.de.labernardiere@wanadoo.fr",
+      "postalcode": "85610",
+      "handle_twitter": "N/A"
+    },
+    "LA BOISSIERE DE MONTAIGU": {
+      "name": "LA BOISSIERE DE MONTAIGU",
+      "email": "buxia@wanadoo.fr",
+      "postalcode": "85600",
+      "handle_twitter": "@zBis85"
+    },
+    "SAINT CHRISTOPHE DU LIGNERON": {
+      "name": "SAINT CHRISTOPHE DU LIGNERON",
+      "email": "mairie.stchristopheduligneron@wanadoo.fr",
+      "postalcode": "85670",
+      "handle_twitter": "@StChristopheAss"
+    },
+    "XANTON CHASSENON": {
+      "name": "XANTON CHASSENON",
+      "email": "mairie.xanton@wanadoo.fr",
+      "postalcode": "85240",
+      "handle_twitter": "N/A"
+    }
+  },
+  "hauts_de_seine": {
+    "ANTONY": {
+      "name": "ANTONY",
+      "email": "webmaster@ville-antony.fr",
+      "postalcode": "92160",
+      "handle_twitter": "@VilleAntony"
+    },
+    "ASNIERES SUR SEINE": {
+      "name": "ASNIERES SUR SEINE",
+      "email": "info@ville-asnieressurseine.fr",
+      "postalcode": "92600",
+      "handle_twitter": "@VILLE_ASNIERES"
+    },
+    "BOULOGNE BILLANCOURT": {
+      "name": "BOULOGNE BILLANCOURT",
+      "email": "sce.communication@mairie-boulogne-billancourt.fr",
+      "postalcode": "92100",
+      "handle_twitter": "@Ville_BoulogneB"
+    },
+    "BOURG LA REINE": {
+      "name": "BOURG LA REINE",
+      "email": "mairie@bourg-la-reine.fr",
+      "postalcode": "92340",
+      "handle_twitter": "@Ville_de_blr"
+    },
+    "CHATENAY MALABRY": {
+      "name": "CHATENAY MALABRY",
+      "email": "infos@chatenay-malabry.fr",
+      "postalcode": "92290",
+      "handle_twitter": "@EnMarche92290"
+    },
+    "CHATILLON": {
+      "name": "CHATILLON",
+      "email": "webmaster@ville-chatillon.fr",
+      "postalcode": "92320",
+      "handle_twitter": "@chatillon92320"
+    },
+    "CHAVILLE": {
+      "name": "CHAVILLE",
+      "email": "jean-levain@ville-chaville.fr",
+      "postalcode": "92370",
+      "handle_twitter": "@ville_chaville"
+    },
+    "CLAMART": {
+      "name": "CLAMART",
+      "email": "mairie@clamart.fr",
+      "postalcode": "92140",
+      "handle_twitter": "@MairiedeClamart"
+    },
+    "GARCHES": {
+      "name": "GARCHES",
+      "email": "info@ville-garches.fr",
+      "postalcode": "92380",
+      "handle_twitter": "@cicitGarches"
+    },
+    "GENNEVILLIERS": {
+      "name": "GENNEVILLIERS",
+      "email": "contact@ville-gennevilliers.fr",
+      "postalcode": "92230",
+      "handle_twitter": "N/A"
+    },
+    "ISSY LES MOULINEAUX": {
+      "name": "ISSY LES MOULINEAUX",
+      "email": "iris@ville-issy.fr",
+      "postalcode": "92130",
+      "handle_twitter": "@Issylesmoul"
+    },
+    "LA GARENNE COLOMBES": {
+      "name": "LA GARENNE COLOMBES",
+      "email": "infomairie@lagarennecolombes.fr",
+      "postalcode": "92250",
+      "handle_twitter": "@Lagarenne"
+    },
+    "MALAKOFF": {
+      "name": "MALAKOFF",
+      "email": "mairie@ville-malakoff.fr",
+      "postalcode": "92240",
+      "handle_twitter": "@villedemalakoff"
+    },
+    "MARNES LA COQUETTE": {
+      "name": "MARNES LA COQUETTE",
+      "email": "mairiedemarnes@wanadoo.fr",
+      "postalcode": "92430",
+      "handle_twitter": "@cdbmleperreux"
+    },
+    "MEUDON": {
+      "name": "MEUDON",
+      "email": "accueil@mairie-meudon.fr",
+      "postalcode": "92360",
+      "handle_twitter": "@VilledeMeudon"
+    },
+    "MONTROUGE": {
+      "name": "MONTROUGE",
+      "email": "jean-loup.metton@ville-montrouge.fr",
+      "postalcode": "92120",
+      "handle_twitter": "@Montrouge92"
+    },
+    "NANTERRE": {
+      "name": "NANTERRE",
+      "email": "etat.civil@mairie-nanterre.fr",
+      "postalcode": "92000",
+      "handle_twitter": "@UParisNanterre"
+    },
+    "VILLENEUVE LA GARENNE": {
+      "name": "VILLENEUVE LA GARENNE",
+      "email": "contact@villeneuve92.com",
+      "postalcode": "92390",
+      "handle_twitter": "@Villeneuve_L_Ga"
+    }
+  },
+  "seine_saint_denis": {
+    "AUBERVILLIERS": {
+      "name": "AUBERVILLIERS",
+      "email": "secretariat-general@mairie-Aubervilliers.fr",
+      "postalcode": "93300",
+      "handle_twitter": "@aubervilliers93"
+    },
+    "AULNAY SOUS BOIS": {
+      "name": "AULNAY SOUS BOIS",
+      "email": "comexterne@aulnay-sous-bois.com",
+      "postalcode": "93600",
+      "handle_twitter": "@AulnaySousBois"
+    },
+    "BAGNOLET": {
+      "name": "BAGNOLET",
+      "email": "mairie@ville-bagnolet.fr",
+      "postalcode": "93170",
+      "handle_twitter": "@BagnoletFR"
+    },
+    "BOBIGNY": {
+      "name": "BOBIGNY",
+      "email": "comtown@comtown.com",
+      "postalcode": "93000",
+      "handle_twitter": "N/A"
+    },
+    "BONDY": {
+      "name": "BONDY",
+      "email": "cab-maire@ville-bondy.fr",
+      "postalcode": "93140",
+      "handle_twitter": "@VilledeBondy"
+    },
+    "CLICHY SOUS BOIS": {
+      "name": "CLICHY SOUS BOIS",
+      "email": "webmaster@ville-clichy-sous-bois.fr",
+      "postalcode": "93390",
+      "handle_twitter": "@Clichy_93"
+    },
+    "EPINAY SUR SEINE": {
+      "name": "EPINAY SUR SEINE",
+      "email": "communication@mairie-epinay93.fr",
+      "postalcode": "93800",
+      "handle_twitter": "@epinaysurseine"
+    },
+    "GAGNY": {
+      "name": "GAGNY",
+      "email": "info@mairie-gagny.fr",
+      "postalcode": "93220",
+      "handle_twitter": "N/A"
+    },
+    "GOURNAY SUR MARNE": {
+      "name": "GOURNAY SUR MARNE",
+      "email": "c.gonnet@gournay-sur-marne.fr",
+      "postalcode": "93460",
+      "handle_twitter": "N/A"
+    },
+    "LE RAINCY": {
+      "name": "LE RAINCY",
+      "email": "leraincy@leraincy.com",
+      "postalcode": "93340",
+      "handle_twitter": "@le_raincy"
+    },
+    "LES LILAS": {
+      "name": "LES LILAS",
+      "email": "ville@leslilas.fr",
+      "postalcode": "93260",
+      "handle_twitter": "@FCLILAS"
+    },
+    "LES PAVILLONS SOUS BOIS": {
+      "name": "LES PAVILLONS SOUS BOIS",
+      "email": "mairie@ville-pavillons-sous-bois.fr",
+      "postalcode": "93320",
+      "handle_twitter": "N/A"
+    },
+    "L ILE SAINT DENIS": {
+      "name": "L ILE SAINT DENIS",
+      "email": "mairie@lile-saint-denis.fr",
+      "postalcode": "93450",
+      "handle_twitter": "@Ileentransition"
+    },
+    "NOISY LE SEC": {
+      "name": "NOISY LE SEC",
+      "email": "maire@noisylesec.fr",
+      "postalcode": "93130",
+      "handle_twitter": "@Ville_NLS"
+    },
+    "PANTIN": {
+      "name": "PANTIN",
+      "email": "",
+      "postalcode": "93500",
+      "handle_twitter": "@VilledePantin"
+    },
+    "PIERREFITTE SUR SEINE": {
+      "name": "PIERREFITTE SUR SEINE",
+      "email": "mairie@mairie-pierrefitte-sur-seine.fr",
+      "postalcode": "93380",
+      "handle_twitter": "N/A"
+    },
+    "ROMAINVILLE": {
+      "name": "ROMAINVILLE",
+      "email": "courrier@ville-romainville.fr",
+      "postalcode": "93230",
+      "handle_twitter": "@93Romainville"
+    },
+    "ROSNY SOUS BOIS": {
+      "name": "ROSNY SOUS BOIS",
+      "email": "courrier@mairie-rosny-sous-bois.fr",
+      "postalcode": "93110",
+      "handle_twitter": "@Rosny_sous_Bois"
+    },
+    "SAINT DENIS": {
+      "name": "SAINT DENIS",
+      "email": "mairie.saint.denis@ville-saint-denis.fr",
+      "postalcode": "93200",
+      "handle_twitter": "@VilleSaintDenis"
+    },
+    "VILLEPINTE": {
+      "name": "VILLEPINTE",
+      "email": "mairie@ville-villepinte.fr",
+      "postalcode": "93420",
+      "handle_twitter": "@VilleVillepinte"
+    },
+    "VILLETANEUSE": {
+      "name": "VILLETANEUSE",
+      "email": "communication@mairie-villetaneuse.fr",
+      "postalcode": "93430",
+      "handle_twitter": "N/A"
+    }
+  }
+}
