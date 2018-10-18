@@ -5,4 +5,4 @@ gem 'pry'
 gem 'colorize'
 gem 'nokogiri'
 gem 'dotenv'
-gem 'twitter
+gem 'twitter'
