@@ -46,11 +46,9 @@ def get_twitter_handle
 
 				#récupération de tous les résultats dans un search_result_divs puis récupération de la première recjherche (index [O])
 				search_result_divs = browser.divs(class:"rc")
-				#
-				twitter_handle = search_result_divs[0].h3.text.split('@')[1][0..-12]
 
-				#récupération du handle twitter puis concaténation avec "@"
-				v_town["handle_twitter"]  = "@#{twitter_handle}"
+				#récupération du handle twitter 
+				v_town["handle_twitter"]  = search_result_divs[0].h3.text.split('@')[1][0..-12]
 				
 			end
 	end 
