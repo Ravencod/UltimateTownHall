@@ -4,3 +4,5 @@ gem 'rubocop', '~> 0.57.2'
 gem 'pry'
 gem 'colorize'
 gem 'nokogiri'
+gem 'dotenv'
+gem 'twitter
