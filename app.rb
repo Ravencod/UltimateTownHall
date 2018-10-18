@@ -39,6 +39,8 @@ class App
         print @msg.msg_3_2
         adder.update_twitter_handle
         puts @msg.msg_3_3
+        adder.export_to_json
+        puts @msg.msg_3_4
       when 4
         follower = Follower.new
         puts @msg.msg_4_1
