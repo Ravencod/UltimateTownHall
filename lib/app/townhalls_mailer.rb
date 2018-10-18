@@ -1,8 +1,6 @@
 require 'mail'
 
 options = { :address              => "smtp.gmail.com",
-            :port                 => 587,
-            :domain               => 'gmail.com',
             :user_name            => 'hyppoleuleu@gmail.com',
             :password             => '1234567huit!',
             :authentication       => 'plain',
