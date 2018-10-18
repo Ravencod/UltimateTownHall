@@ -26,7 +26,7 @@ class Scrapper
 
   def all_infos
     @departments.each do |dep, url|
-      page = Nokogiri::HTML(file.open(url))
+      page = Nokogiri::HTML(open(url))
       i = 1
       dep_page_xpath = page.xpath(@xpath)
       print "\nExtracting for #{dep.capitalize}:\n"
