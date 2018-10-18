@@ -1,15 +1,5 @@
 {
   "vendee": {
-    "Communes et Mairies du département de la Vendée": {
-      "name": "Communes et Mairies du département de la Vendée",
-      "email": "",
-      "postalcode": null
-    },
-    "Le département de la Vendée": {
-      "name": "Le département de la Vendée",
-      "email": "",
-      "postalcode": null
-    },
     "AIZENAY": {
       "name": "AIZENAY",
       "email": "contact@mairie-aizenay.fr",
@@ -1417,16 +1407,6 @@
     }
   },
   "hauts_de_seine": {
-    "Le département des Hauts-de-Seine": {
-      "name": "Le département des Hauts-de-Seine",
-      "email": "",
-      "postalcode": null
-    },
-    "département des Hauts-de-Seine": {
-      "name": "département des Hauts-de-Seine",
-      "email": "",
-      "postalcode": null
-    },
     "ANTONY": {
       "name": "ANTONY",
       "email": "webmaster@ville-antony.fr",
@@ -1609,16 +1589,6 @@
     }
   },
   "seine_saint_denis": {
-    "Communes et Mairies du département de Seine-Saint-Denis": {
-      "name": "Communes et Mairies du département de Seine-Saint-Denis",
-      "email": "",
-      "postalcode": null
-    },
-    "Le département de Seine-Saint-Denis": {
-      "name": "Le département de Seine-Saint-Denis",
-      "email": "",
-      "postalcode": null
-    },
     "AUBERVILLIERS": {
       "name": "AUBERVILLIERS",
       "email": "secretariat-general@mairie-Aubervilliers.fr",
