@@ -16,19 +16,19 @@ class App
 
   def perform
     loop do
-      @action_index.get_action
+      @action_index.set_action
       case @action_index.action
       when 1
         scrapper = Scrapper.new
         puts @msg.msg_1_1
-        scrapper.get_all_infos
+        scrapper.all_infos
         print @msg.msg_1_2
         scrapper.export_emails_to_json
         puts @msg.msg_1_3
       when 2
         mailer = Mailer.new
         puts @msg.msg_2_1
-        mailer.get_emails
+        mailer.emails
         print @msg.msg_2_2
         mailer.send_emails
         puts @msg.msg_2_3
@@ -42,16 +42,17 @@ class App
         adder.export_to_json
         puts @msg.msg_3_4
       when 4
-        follower = Follower.new
+        follower = Followers.new
         puts @msg.msg_4_1
-        adder.extract_json
+        follower.extract_json
         print @msg.msg_4_2
-        adder.update_twitter_handle
+        follower.twitter_init
         puts @msg.msg_4_3
+        follower.follow_all
+        puts @msg.msg_4_4
       end
     end
   end
 end
 
-p 'hello'
 App.new
