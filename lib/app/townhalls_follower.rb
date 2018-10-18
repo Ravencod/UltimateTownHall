@@ -7,29 +7,21 @@ Dotenv.load('../../.env')
 
 #townhalls_follower.rb permet de follow sur twitte toutes les villes du json townhalls_contact
 
-
-class followers 
-
+class Followers 
 	def initialize 
 		twitter_init
 		follow_all
 	end 
 	
-
 	#méthode qui extrait le json des villes dans un hash 
 	def extract_json
-
 		@handles = Hash.new
-
 		json = File.read('../../townhalls_contact.json')
 	   	@handles = JSON.parse(json)
-
 	end 
 
 	#méthode pour iniatialiser l'API Twitter 
 	def twitter_init 
-
-
 		@client = Twitter::REST::Client.new do |config|
 	 		config.consumer_key = ENV["TWITTER_API_KEY"]
 	 		config.consumer_secret = ENV["TWITTER_SECRET_KEY"]
@@ -40,24 +32,13 @@ class followers
 
 	#méthode qui follow tous les handles du hashs 
 	def follow_all
-
 		extract_json
-
 		@handles.each do |departement, v_dep|
-
 			v_dep.each do |town, v_town|
-			
 				next if v_town ["handle_twitter"].empty?
-				
 				#follow de chaque handles du hash 	
 				@client.follow("#{v_town["handle_twitter"]}")
-
-				
-
 			end
-
 	   	end 
-
 	end
-
 end
