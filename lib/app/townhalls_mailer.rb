@@ -20,7 +20,6 @@ class Mailer
       print "> "
       password = gets.chomp
     end
-    puts password
     options = { address: 'smtp.gmail.com',
                 user_name: adress,
                 password: password,
