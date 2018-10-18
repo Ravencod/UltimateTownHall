@@ -10,7 +10,7 @@ Dotenv.load('../../.env')
 
 class folloers 
 
-	def iitialize 
+	def initialize 
 		twitter_init
 		follow_all
 	end 
