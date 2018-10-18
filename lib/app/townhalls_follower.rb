@@ -47,12 +47,12 @@ class followers
 
 			v_dep.each do |town, v_town|
 			
-				unless v_town["handle_twitter"] == "N/A"
-
+				next if v_town ["handle_twitter"]?empty?
+				
 				#follow de chaque handles du hash 	
 				@client.follow("#{v_town["handle_twitter"]}")
 
-				end
+				
 
 			end
 
