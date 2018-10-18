@@ -9,6 +9,7 @@ GEM
     coderay (1.1.2)
     domain_name (0.5.20180417)
       unf (>= 0.0.5, < 1.0.0)
+    dotenv (2.5.0)
     equalizer (0.0.11)
     ffi (1.9.25)
     http (3.3.0)
@@ -56,6 +57,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  dotenv
   pry
   selenium-webdriver
   twitter

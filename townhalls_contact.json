@@ -4,27 +4,39 @@
       "name": "AIZENAY",
       "email": "contact@mairie-aizenay.fr",
       "postalcode": "85190",
-      "handle_twitter": "@iCedric"
+      "handle_twitter": "@Aizenay_ville"
     },
     "ANGLES": {
       "name": "ANGLES",
       "email": "mairie@angles.fr",
       "postalcode": "85750",
-      "handle_twitter": "@KerryChandlerZ1"
+      "handle_twitter": "@Angels"
     },
     "ANTIGNY": {
       "name": "ANTIGNY",
       "email": "antigny85.commune@wanadoo.fr",
       "postalcode": "85120",
-      "handle_twitter": "@jooks_ta"
+      "handle_twitter": "@AntignyMSA"
     }
   },
   "charente": {
+    "AIZENAY": {
+      "name": "AIZENAY",
+      "email": "contact@mairie-aizenay.fr",
+      "postalcode": "85190",
+      "handle_twitter": "@Aizenay_ville"
+    },
+    "ANGLES": {
+      "name": "ANGLES",
+      "email": "mairie@angles.fr",
+      "postalcode": "85750",
+      "handle_twitter": "@Angels"
+    },
     "ANTIGNY": {
       "name": "ANTIGNY",
       "email": "antigny85.commune@wanadoo.fr",
       "postalcode": "85120",
-      "handle_twitter": "@ana_bhan"
+      "handle_twitter": "@AntignyMSA"
     }
   }
 }
