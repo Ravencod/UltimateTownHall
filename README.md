@@ -13,11 +13,25 @@ les handle twitters, les adresses mails et les code postaux des Mairies de trois
 Puis dans un second temps on cherche à follow leur compte twitter et leur envoyer un mail à chacunes.
 
 
-Axel Ringard
-Jonathan Mete
-Maëlle Ngachili
-Cedric Soares
-Raphael Caillaux
+```UltimateTownHall
+├── .gitignore #Permet d'ignoré certains fichiers
+├── .env (pas sur le répo GitHub, bien entendu 😉)
+├── README.md #T'es en train de lire ^^
+├── Gemfile 
+├── Gemfile.lock
+├── app.rb #Permet de lancer le programme
+├── db  #Dossier contenant les textes
+│   ├── townhalls.json  #Fichier contenant 
+│   └── townhalls_contact.json  #Fichier contenant 
+└── lib #Dossier contenant
+    ├── app #Sous-dossier contenant
+    │   ├── townhalls_scrapper.rb #Contient le code pour scraper des données
+    │   ├── townhalls_mailer.rb #Contient le code pour lancer les mails
+    │   ├── townhalls_adder_to_db.rb #Contient le code 
+    │   └── townhalls_follower.rb #Contient le code pour 'follow' sur twitter
+    └── views #Sous-dossier contenant
+        ├── done.rb #Accompli une tâche
+        └── index.rb #Affiche une interface utilisateur
 
     
 ### Binôme :
