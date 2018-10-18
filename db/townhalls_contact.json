@@ -1,0 +1,1823 @@
+{
+  "vendee": {
+    "Communes et Mairies du département de la Vendée": {
+      "name": "Communes et Mairies du département de la Vendée",
+      "email": "",
+      "postalcode": null
+    },
+    "Le département de la Vendée": {
+      "name": "Le département de la Vendée",
+      "email": "",
+      "postalcode": null
+    },
+    "AIZENAY": {
+      "name": "AIZENAY",
+      "email": "contact@mairie-aizenay.fr",
+      "postalcode": "85190"
+    },
+    "ANGLES": {
+      "name": "ANGLES",
+      "email": "mairie@angles.fr",
+      "postalcode": "85750"
+    },
+    "ANTIGNY": {
+      "name": "ANTIGNY",
+      "email": "antigny85.commune@wanadoo.fr",
+      "postalcode": "85120"
+    },
+    "APREMONT": {
+      "name": "APREMONT",
+      "email": "mairie.apremont85@wanadoo.fr",
+      "postalcode": "85220"
+    },
+    "AUBIGNY": {
+      "name": "AUBIGNY",
+      "email": "contact@mairie-aubigny.fr",
+      "postalcode": "85430"
+    },
+    "AUZAY": {
+      "name": "AUZAY",
+      "email": "mairie-auzay@wanadoo.fr",
+      "postalcode": "85200"
+    },
+    "AVRILLE": {
+      "name": "AVRILLE",
+      "email": "mairie.avrille85@wanadoo.fr",
+      "postalcode": "85440"
+    },
+    "BARBATRE": {
+      "name": "BARBATRE",
+      "email": "mairie.barbatre@wanadoo.fr",
+      "postalcode": "85630"
+    },
+    "BAZOGES EN PAILLERS": {
+      "name": "BAZOGES EN PAILLERS",
+      "email": "mairie-bazoges-en-paillers@wanadoo.fr",
+      "postalcode": "85130"
+    },
+    "BAZOGES EN PAREDS": {
+      "name": "BAZOGES EN PAREDS",
+      "email": "mairie@bazoges-en-pareds.fr",
+      "postalcode": "85390"
+    },
+    "BEAUFOU": {
+      "name": "BEAUFOU",
+      "email": "mairie.beaufou@wanadoo.fr",
+      "postalcode": "85170"
+    },
+    "BEAULIEU SOUS LA ROCHE": {
+      "name": "BEAULIEU SOUS LA ROCHE",
+      "email": "mairie.beaulieu.s.roche@wanadoo.fr",
+      "postalcode": "85190"
+    },
+    "BEAUREPAIRE": {
+      "name": "BEAUREPAIRE",
+      "email": "mairiebeaurepaire85@wanadoo.fr",
+      "postalcode": "85500"
+    },
+    "BEAUVOIR SUR MER": {
+      "name": "BEAUVOIR SUR MER",
+      "email": "mairie-de-beauvoir-sur-mer@wanadoo.fr",
+      "postalcode": "85230"
+    },
+    "BELLEVILLE SUR VIE": {
+      "name": "BELLEVILLE SUR VIE",
+      "email": "mairie.de.belleville.sur.vie@wanadoo.fr",
+      "postalcode": "85170"
+    },
+    "BENET": {
+      "name": "BENET",
+      "email": "mairie-benet@wanadoo.fr",
+      "postalcode": "85490"
+    },
+    "BESSAY": {
+      "name": "BESSAY",
+      "email": "mairiedebessay@wanadoo.fr",
+      "postalcode": "85320"
+    },
+    "BOIS DE CENE": {
+      "name": "BOIS DE CENE",
+      "email": "mairie.boisdecene@wanadoo.fr",
+      "postalcode": "85710"
+    },
+    "BOUFFERE": {
+      "name": "BOUFFERE",
+      "email": "contact@bouffere.fr",
+      "postalcode": "85600"
+    },
+    "BOUILLE COURDAULT": {
+      "name": "BOUILLE COURDAULT",
+      "email": "bouille.courdault@wanadoo.fr",
+      "postalcode": "85420"
+    },
+    "BOUIN": {
+      "name": "BOUIN",
+      "email": "mairie.de.bouin@wanadoo.fr",
+      "postalcode": "85230"
+    },
+    "BOULOGNE": {
+      "name": "BOULOGNE",
+      "email": "ville.boulogne@wanadoo.fr",
+      "postalcode": "85140"
+    },
+    "BOURNEAU": {
+      "name": "BOURNEAU",
+      "email": "mairie-de-bourneau@wanadoo.fr",
+      "postalcode": "85200"
+    },
+    "BOURNEZEAU": {
+      "name": "BOURNEZEAU",
+      "email": "mairie@bournezeau.fr",
+      "postalcode": "85480"
+    },
+    "BREM SUR MER": {
+      "name": "BREM SUR MER",
+      "email": "mairiedebrem@wanadoo.fr",
+      "postalcode": "85470"
+    },
+    "BRETIGNOLLES SUR MER": {
+      "name": "BRETIGNOLLES SUR MER",
+      "email": "ville.bretignolles@wanadoo.fr",
+      "postalcode": "85470"
+    },
+    "BREUIL BARRET": {
+      "name": "BREUIL BARRET",
+      "email": "mairie-breuilbarret@wanadoo.fr",
+      "postalcode": "85120"
+    },
+    "CEZAIS": {
+      "name": "CEZAIS",
+      "email": "mairie.cezais@wanadoo.fr",
+      "postalcode": "85410"
+    },
+    "CHAILLE LES MARAIS": {
+      "name": "CHAILLE LES MARAIS",
+      "email": "chaille-les-marais@wanadoo.fr",
+      "postalcode": "85450"
+    },
+    "CHAILLE SOUS LES ORMEAUX": {
+      "name": "CHAILLE SOUS LES ORMEAUX",
+      "email": "mairiechaillesouslesormeaux@wanadoo.fr",
+      "postalcode": "85310"
+    },
+    "CHAIX": {
+      "name": "CHAIX",
+      "email": "mairie.de.chaix@wanadoo.fr",
+      "postalcode": "85200"
+    },
+    "CHALLANS": {
+      "name": "CHALLANS",
+      "email": "mairie@challans.fr",
+      "postalcode": "85300"
+    },
+    "CHAMBRETAUD": {
+      "name": "CHAMBRETAUD",
+      "email": "mairie.chambretaud@wanadoo.fr",
+      "postalcode": "85500"
+    },
+    "CHAMPAGNE LES MARAIS": {
+      "name": "CHAMPAGNE LES MARAIS",
+      "email": "champagne-les-marais85@wanadoo.fr",
+      "postalcode": "85450"
+    },
+    "CHANTONNAY": {
+      "name": "CHANTONNAY",
+      "email": "info@ville-chantonnay.fr",
+      "postalcode": "85110"
+    },
+    "CHASNAIS": {
+      "name": "CHASNAIS",
+      "email": "mairie-chasnais-85@wanadoo.fr",
+      "postalcode": "85400"
+    },
+    "CHATEAU D OLONNE": {
+      "name": "CHATEAU D OLONNE",
+      "email": "ressources.humaines@ville-chateaudolonne.fr",
+      "postalcode": "85180"
+    },
+    "CHATEAU GUIBERT": {
+      "name": "CHATEAU GUIBERT",
+      "email": "mairie.chateauguibert@wanadoo.fr",
+      "postalcode": "85320"
+    },
+    "CHATEAUNEUF": {
+      "name": "CHATEAUNEUF",
+      "email": "mairie-chateauneuf@wanadoo.fr",
+      "postalcode": "85710"
+    },
+    "CHAUCHE": {
+      "name": "CHAUCHE",
+      "email": "mairie-chauche@wanadoo.fr",
+      "postalcode": "85140"
+    },
+    "CHAVAGNES EN PAILLERS": {
+      "name": "CHAVAGNES EN PAILLERS",
+      "email": "contact@mairie-chavagnes-en-paillers.fr",
+      "postalcode": "85250"
+    },
+    "CHAVAGNES LES REDOUX": {
+      "name": "CHAVAGNES LES REDOUX",
+      "email": "mairie.chavagneslesredoux@wanadoo.fr",
+      "postalcode": "85390"
+    },
+    "CHEFFOIS": {
+      "name": "CHEFFOIS",
+      "email": "mairie.cheffois@wanadoo.fr",
+      "postalcode": "85390"
+    },
+    "COEX": {
+      "name": "COEX",
+      "email": "mairiedecoex@free.fr",
+      "postalcode": "85220"
+    },
+    "COMMEQUIERS": {
+      "name": "COMMEQUIERS",
+      "email": "mairie-commequiers@wanadoo.fr",
+      "postalcode": "85220"
+    },
+    "CORPE": {
+      "name": "CORPE",
+      "email": "communedecorpe@wanadoo.fr",
+      "postalcode": "85320"
+    },
+    "CUGAND": {
+      "name": "CUGAND",
+      "email": "mairie@cugand.fr",
+      "postalcode": "85610"
+    },
+    "CURZON": {
+      "name": "CURZON",
+      "email": "mairie.curzon@wanadoo.fr",
+      "postalcode": "85540"
+    },
+    "DAMVIX": {
+      "name": "DAMVIX",
+      "email": "mairie.damvix@wanadoo.fr",
+      "postalcode": "85420"
+    },
+    "DOIX": {
+      "name": "DOIX",
+      "email": "mairie-de-doix@wanadoo.fr",
+      "postalcode": "85200"
+    },
+    "DOMPIERRE SUR YON": {
+      "name": "DOMPIERRE SUR YON",
+      "email": "mairie@dompierre-sur-yon.fr",
+      "postalcode": "85170"
+    },
+    "FALLERON": {
+      "name": "FALLERON",
+      "email": "mairie.falleron@wanadoo.fr",
+      "postalcode": "85670"
+    },
+    "FAYMOREAU": {
+      "name": "FAYMOREAU",
+      "email": "mairie.faymoreau@wanadoo.fr",
+      "postalcode": "85240"
+    },
+    "FONTAINES": {
+      "name": "FONTAINES",
+      "email": "mairie.fontaines@wanadoo.fr",
+      "postalcode": "85200"
+    },
+    "FONTENAY LE COMTE": {
+      "name": "FONTENAY LE COMTE",
+      "email": "dgs@ville-fontenaylecomte.fr",
+      "postalcode": "85200"
+    },
+    "FOUGERE": {
+      "name": "FOUGERE",
+      "email": "mairie.fougere@wanadoo.fr",
+      "postalcode": "85480"
+    },
+    "FOUSSAIS PAYRE": {
+      "name": "FOUSSAIS PAYRE",
+      "email": "mairie.foussais-payre@wanadoo.fr",
+      "postalcode": "85240"
+    },
+    "FROIDFOND": {
+      "name": "FROIDFOND",
+      "email": "mairiefroidfond@wanadoo.fr",
+      "postalcode": "85300"
+    },
+    "GIVRAND": {
+      "name": "GIVRAND",
+      "email": "mairie.givrand.85@wanadoo.fr",
+      "postalcode": "85800"
+    },
+    "GRAND LANDES": {
+      "name": "GRAND LANDES",
+      "email": "mairiegrandlandes@wanadoo.fr",
+      "postalcode": "85670"
+    },
+    "GROSBREUIL": {
+      "name": "GROSBREUIL",
+      "email": "mairie.grosbreuil@wanadoo.fr",
+      "postalcode": "85440"
+    },
+    "GRUES": {
+      "name": "GRUES",
+      "email": "mairie.grues@wanadoo.fr",
+      "postalcode": "85580"
+    },
+    "JARD SUR MER": {
+      "name": "JARD SUR MER",
+      "email": "mairie@ville-jardsurmer.fr",
+      "postalcode": "85520"
+    },
+    "LA BARRE DE MONTS": {
+      "name": "LA BARRE DE MONTS",
+      "email": "mairie@ville-labarredemonts.fr",
+      "postalcode": "85550"
+    },
+    "LA BERNARDIERE": {
+      "name": "LA BERNARDIERE",
+      "email": "mairie.de.labernardiere@wanadoo.fr",
+      "postalcode": "85610"
+    },
+    "LA BOISSIERE DE MONTAIGU": {
+      "name": "LA BOISSIERE DE MONTAIGU",
+      "email": "buxia@wanadoo.fr",
+      "postalcode": "85600"
+    },
+    "LA BOISSIERE DES LANDES": {
+      "name": "LA BOISSIERE DES LANDES",
+      "email": "mairie.boissiere.des.landes@wanadoo.fr",
+      "postalcode": "85430"
+    },
+    "LA BRETONNIERE": {
+      "name": "LA BRETONNIERE",
+      "email": "mairie-de-la-bretonniere-la-claye@wanadoo.fr",
+      "postalcode": "85320"
+    },
+    "LA BRUFFIERE": {
+      "name": "LA BRUFFIERE",
+      "email": "info@labruffiere.fr",
+      "postalcode": "85530"
+    },
+    "LA CAILLERE SAINT HILAIRE": {
+      "name": "LA CAILLERE SAINT HILAIRE",
+      "email": "mairie.lacaillere.st.hilaire@wanadoo.fr",
+      "postalcode": "85410"
+    },
+    "LA CHAIZE GIRAUD": {
+      "name": "LA CHAIZE GIRAUD",
+      "email": "mairiechaizegiraud@wanadoo.fr",
+      "postalcode": "85220"
+    },
+    "LA CHAIZE LE VICOMTE": {
+      "name": "LA CHAIZE LE VICOMTE",
+      "email": "mairie-la-chaize-le-vicomte@wanadoo.fr",
+      "postalcode": "85310"
+    },
+    "LA CHAPELLE ACHARD": {
+      "name": "LA CHAPELLE ACHARD",
+      "email": "mairie-la-chapelle-achard@wanadoo.fr",
+      "postalcode": "85150"
+    },
+    "LA CHAPELLE AUX LYS": {
+      "name": "LA CHAPELLE AUX LYS",
+      "email": "mairie.lachapelleauxlys@wanadoo.fr",
+      "postalcode": "85120"
+    },
+    "LA CHAPELLE HERMIER": {
+      "name": "LA CHAPELLE HERMIER",
+      "email": "mairie.hermier@wanadoo.fr",
+      "postalcode": "85220"
+    },
+    "LA CHAPELLE PALLUAU": {
+      "name": "LA CHAPELLE PALLUAU",
+      "email": "mairie-lachapelle-palluau@wanadoo.fr",
+      "postalcode": "85670"
+    },
+    "LA CHAPELLE THEMER": {
+      "name": "LA CHAPELLE THEMER",
+      "email": "mairie.chapelle.themer@wanadoo.fr",
+      "postalcode": "85210"
+    },
+    "LA CHATAIGNERAIE": {
+      "name": "LA CHATAIGNERAIE",
+      "email": " mairie@la-chataigneraie.fr",
+      "postalcode": "85120"
+    },
+    "LA COPECHAGNIERE": {
+      "name": "LA COPECHAGNIERE",
+      "email": "mairie.copechagniere@alicepro.fr",
+      "postalcode": "85260"
+    },
+    "LA COUTURE": {
+      "name": "LA COUTURE",
+      "email": "mairie.lacouture@wanadoo.fr",
+      "postalcode": "85320"
+    },
+    "LA FAUTE SUR MER": {
+      "name": "LA FAUTE SUR MER",
+      "email": "mairie@lafautesurmer.com",
+      "postalcode": "85460"
+    },
+    "LA FERRIERE": {
+      "name": "LA FERRIERE",
+      "email": "mairielaferriere85@wanadoo.fr",
+      "postalcode": "85280"
+    },
+    "LA FLOCELLIERE": {
+      "name": "LA FLOCELLIERE",
+      "email": "mairie.la.flocelliere@wanadoo.fr",
+      "postalcode": "85700"
+    },
+    "LA GARNACHE": {
+      "name": "LA GARNACHE",
+      "email": "mairielagarnache@wanadoo.fr",
+      "postalcode": "85710"
+    },
+    "LA GAUBRETIERE": {
+      "name": "LA GAUBRETIERE",
+      "email": "mairie.lagaubretiere@wanadoo.fr",
+      "postalcode": "85130"
+    },
+    "LA GENETOUZE": {
+      "name": "LA GENETOUZE",
+      "email": "mairie.genetouze.85@wanadoo.fr",
+      "postalcode": "85190"
+    },
+    "LA GUERINIERE": {
+      "name": "LA GUERINIERE",
+      "email": "mairie.lagueriniere@wanadoo.fr",
+      "postalcode": "85680"
+    },
+    "LA GUYONNIERE": {
+      "name": "LA GUYONNIERE",
+      "email": "contact.mairie@laguyonniere.fr",
+      "postalcode": "85600"
+    },
+    "L AIGUILLON SUR MER": {
+      "name": "L AIGUILLON SUR MER",
+      "email": "mairie.aiguillonsurmer@wanadoo.fr",
+      "postalcode": "85460"
+    },
+    "L AIGUILLON SUR VIE": {
+      "name": "L AIGUILLON SUR VIE",
+      "email": "mairie-aiguillon-sur-vie@wanadoo.fr",
+      "postalcode": "85220"
+    },
+    "LAIROUX": {
+      "name": "LAIROUX",
+      "email": "mairie.de.lairoux@wanadoo.fr",
+      "postalcode": "85400"
+    },
+    "LA JAUDONNIERE": {
+      "name": "LA JAUDONNIERE",
+      "email": "mairie.lajaudonniere@wanadoo.fr",
+      "postalcode": "85110"
+    },
+    "LA JONCHERE": {
+      "name": "LA JONCHERE",
+      "email": "mairielajonchere@wanadoo.fr",
+      "postalcode": "85540"
+    },
+    "LA MEILLERAIE TILLAY": {
+      "name": "LA MEILLERAIE TILLAY",
+      "email": "lameilleraie.tillay@wanadoo.fr",
+      "postalcode": "85700"
+    },
+    "LA MERLATIERE": {
+      "name": "LA MERLATIERE",
+      "email": "mairie.merlatiere@wanadoo.fr",
+      "postalcode": "85140"
+    },
+    "LA MOTHE ACHARD": {
+      "name": "LA MOTHE ACHARD",
+      "email": "mairie.lamothe-achard@wanadoo.fr",
+      "postalcode": "85150"
+    },
+    "LANDERONDE": {
+      "name": "LANDERONDE",
+      "email": "mairie.landeronde@wanadoo.fr",
+      "postalcode": "85150"
+    },
+    "LANDEVIEILLE": {
+      "name": "LANDEVIEILLE",
+      "email": "mairie.landevieille@wanadoo.fr",
+      "postalcode": "85220"
+    },
+    "LA POMMERAIE SUR SEVRE": {
+      "name": "LA POMMERAIE SUR SEVRE",
+      "email": "mairie-de-pommeraie-sur-sevre@wanadoo.fr",
+      "postalcode": "85700"
+    },
+    "LA RABATELIERE": {
+      "name": "LA RABATELIERE",
+      "email": "mairierabateliere@wanadoo.fr",
+      "postalcode": "85250"
+    },
+    "LA REORTHE": {
+      "name": "LA REORTHE",
+      "email": "mairie.la.reorthe@wanadoo.fr",
+      "postalcode": "85210"
+    },
+    "LA ROCHE SUR YON": {
+      "name": "LA ROCHE SUR YON",
+      "email": "mairie@ville-larochesuryon.fr",
+      "postalcode": "85000"
+    },
+    "LA TAILLEE": {
+      "name": "LA TAILLEE",
+      "email": "mairie.taillee@wanadoo.fr",
+      "postalcode": "85450"
+    },
+    "LA TARDIERE": {
+      "name": "LA TARDIERE",
+      "email": "mairie.latardiere@wanadoo.fr",
+      "postalcode": "85120"
+    },
+    "LA TRANCHE SUR MER": {
+      "name": "LA TRANCHE SUR MER",
+      "email": "mairiesecretariat.latranche@wanadoo.fr",
+      "postalcode": "85360"
+    },
+    "LA VERRIE": {
+      "name": "LA VERRIE",
+      "email": "mairie.laverrie@wanadoo.fr",
+      "postalcode": "85130"
+    },
+    "LE BERNARD": {
+      "name": "LE BERNARD",
+      "email": "maire.lebernard@wanadoo.fr",
+      "postalcode": "85560"
+    },
+    "LE BOUPERE": {
+      "name": "LE BOUPERE",
+      "email": "contact@leboupere.fr",
+      "postalcode": "85510"
+    },
+    "LE CHAMP SAINT PERE": {
+      "name": "LE CHAMP SAINT PERE",
+      "email": "mairie.champstpere@wanadoo.fr",
+      "postalcode": "85540"
+    },
+    "LE FENOUILLER": {
+      "name": "LE FENOUILLER",
+      "email": "mairie.lefenouiller@wanadoo.fr",
+      "postalcode": "85800"
+    },
+    "LE GIROUARD": {
+      "name": "LE GIROUARD",
+      "email": "mairie.girouard@wanadoo.fr",
+      "postalcode": "85150"
+    },
+    "LE GIVRE": {
+      "name": "LE GIVRE",
+      "email": "mairielegivre@wanadoo.fr",
+      "postalcode": "85540"
+    },
+    "LE GUE DE VELLUIRE": {
+      "name": "LE GUE DE VELLUIRE",
+      "email": "mairie.gue-de-velluire@wanadoo.fr",
+      "postalcode": "85770"
+    },
+    "LE LANGON": {
+      "name": "LE LANGON",
+      "email": "mairie.le.langon@wanadoo.fr",
+      "postalcode": "85370"
+    },
+    "LE MAZEAU": {
+      "name": "LE MAZEAU",
+      "email": "mairie-le-mazeau@wanadoo.fr",
+      "postalcode": "85420"
+    },
+    "LE PERRIER": {
+      "name": "LE PERRIER",
+      "email": "mairie.le.perrier@wanadoo.fr",
+      "postalcode": "85300"
+    },
+    "L EPINE": {
+      "name": "L EPINE",
+      "email": "mairielepine@wanadoo.fr",
+      "postalcode": "85740"
+    },
+    "LE POIRE SUR VELLUIRE": {
+      "name": "LE POIRE SUR VELLUIRE",
+      "email": "mairie.poire-sur-velluire@wanadoo.fr",
+      "postalcode": "85770"
+    },
+    "LE POIRE SUR VIE": {
+      "name": "LE POIRE SUR VIE",
+      "email": "mairie@ville-lepoiresurvie.fr",
+      "postalcode": "85170"
+    },
+    "LES BROUZILS": {
+      "name": "LES BROUZILS",
+      "email": "mairie@les-brouzils.fr",
+      "postalcode": "85260"
+    },
+    "LES CHATELLIERS CHATEAUMUR": {
+      "name": "LES CHATELLIERS CHATEAUMUR",
+      "email": "mairie.chatelliers-chateaumur@wanadoo.fr",
+      "postalcode": "85700"
+    },
+    "LES CLOUZEAUX": {
+      "name": "LES CLOUZEAUX",
+      "email": "mairie@lesclouzeaux.fr",
+      "postalcode": "85430"
+    },
+    "LES EPESSES": {
+      "name": "LES EPESSES",
+      "email": "mairie@les-epesses.com",
+      "postalcode": "85590"
+    },
+    "LES ESSARTS": {
+      "name": "LES ESSARTS",
+      "email": "Mairie-des-essarts@wanadoo.fr",
+      "postalcode": "85140"
+    },
+    "LES HERBIERS": {
+      "name": "LES HERBIERS",
+      "email": "mairie@lesherbiers.fr",
+      "postalcode": "85500"
+    },
+    "LES LANDES GENUSSON": {
+      "name": "LES LANDES GENUSSON",
+      "email": "mairie.des.landes.genusson@cegetel.net",
+      "postalcode": "85130"
+    },
+    "LES LUCS SUR BOULOGNE": {
+      "name": "LES LUCS SUR BOULOGNE",
+      "email": "mairie.leslucssurboulogne@wanadoo.fr",
+      "postalcode": "85170"
+    },
+    "LES MAGNILS REIGNIERS": {
+      "name": "LES MAGNILS REIGNIERS",
+      "email": "mairie.magnils@wanadoo.fr",
+      "postalcode": "85400"
+    },
+    "LES PINEAUX": {
+      "name": "LES PINEAUX",
+      "email": "mairie-les-pineaux@wanadoo.fr",
+      "postalcode": "85320"
+    },
+    "LES SABLES D OLONNE": {
+      "name": "LES SABLES D OLONNE",
+      "email": "cabinet.maire@lessablesdolonne.fr",
+      "postalcode": "85100"
+    },
+    "LE TABLIER": {
+      "name": "LE TABLIER",
+      "email": "mairie.letablier@wanadoo.fr",
+      "postalcode": "85310"
+    },
+    "L HERBERGEMENT": {
+      "name": "L HERBERGEMENT",
+      "email": "contact@ville-l-herbergement.fr",
+      "postalcode": "85260"
+    },
+    "L HERMENAULT": {
+      "name": "L HERMENAULT",
+      "email": "mairie-de-lhermenault@wanadoo.fr",
+      "postalcode": "85570"
+    },
+    "LIEZ": {
+      "name": "LIEZ",
+      "email": "mairie.liez@wanadoo.fr",
+      "postalcode": "85420"
+    },
+    "L ILE D ELLE": {
+      "name": "L ILE D ELLE",
+      "email": "secretariat@mairie-iledelle.fr",
+      "postalcode": "85770"
+    },
+    "L ILE D OLONNE": {
+      "name": "L ILE D OLONNE",
+      "email": "mairie.l-ile.d-olonne@wanadoo.fr",
+      "postalcode": "85340"
+    },
+    "L ILE D YEU": {
+      "name": "L ILE D YEU",
+      "email": "mairie@ile-yeu.fr",
+      "postalcode": "85350"
+    },
+    "LOGE FOUGEREUSE": {
+      "name": "LOGE FOUGEREUSE",
+      "email": "mairie.logefougereuse@wanadoo.fr",
+      "postalcode": "85120"
+    },
+    "L OIE": {
+      "name": "L OIE",
+      "email": "communeoie.mairie@wanadoo.fr",
+      "postalcode": "85140"
+    },
+    "LONGEVES": {
+      "name": "LONGEVES",
+      "email": "mairie-longeves85@wanadoo.fr",
+      "postalcode": "85200"
+    },
+    "LONGEVILLE SUR MER": {
+      "name": "LONGEVILLE SUR MER",
+      "email": "mairie-longeville-sur-mer@wanadoo.fr",
+      "postalcode": "85560"
+    },
+    "L ORBRIE": {
+      "name": "L ORBRIE",
+      "email": "mairie.lorbrie@wanadoo.fr",
+      "postalcode": "85200"
+    },
+    "LUCON": {
+      "name": "LUCON",
+      "email": "contact@lucon.fr",
+      "postalcode": "85400"
+    },
+    "MACHE": {
+      "name": "MACHE",
+      "email": "mairie-mache@wanadoo.fr",
+      "postalcode": "85190"
+    },
+    "MAILLE": {
+      "name": "MAILLE",
+      "email": "mairiedemaille@wanadoo.fr",
+      "postalcode": "85420"
+    },
+    "MAILLEZAIS": {
+      "name": "MAILLEZAIS",
+      "email": "mairie-maillezais@wanadoo.fr",
+      "postalcode": "85420"
+    },
+    "MALLIEVRE": {
+      "name": "MALLIEVRE",
+      "email": "mairie.mallievre@wanadoo.fr",
+      "postalcode": "85590"
+    },
+    "MAREUIL SUR LAY DISSAIS": {
+      "name": "MAREUIL SUR LAY DISSAIS",
+      "email": "mairiemareuilsurlay@wanadoo.fr",
+      "postalcode": "85320"
+    },
+    "MARILLET": {
+      "name": "MARILLET",
+      "email": "commune.marillet@orange.fr",
+      "postalcode": "85240"
+    },
+    "MARSAIS SAINTE RADEGONDE": {
+      "name": "MARSAIS SAINTE RADEGONDE",
+      "email": "mairie-marsais-sainte-radegonde@wanadoo.fr",
+      "postalcode": "85570"
+    },
+    "MARTINET": {
+      "name": "MARTINET",
+      "email": "mairie.martinet@wanadoo.fr",
+      "postalcode": "85150"
+    },
+    "MENOMBLET": {
+      "name": "MENOMBLET",
+      "email": "mairie-menomblet@orange.fr",
+      "postalcode": "85700"
+    },
+    "MERVENT": {
+      "name": "MERVENT",
+      "email": "mairie.mervent@wanadoo.fr",
+      "postalcode": "85200"
+    },
+    "MESNARD LA BAROTIERE": {
+      "name": "MESNARD LA BAROTIERE",
+      "email": "mairie.mesnard@wanadoo.fr",
+      "postalcode": "85500"
+    },
+    "MONSIREIGNE": {
+      "name": "MONSIREIGNE",
+      "email": "monsireigne.mairie@wanadoo.fr",
+      "postalcode": "85110"
+    },
+    "MONTAIGU": {
+      "name": "MONTAIGU",
+      "email": "mairie.de.montaigu@ville-montaigu.com",
+      "postalcode": "85600"
+    },
+    "MONTOURNAIS": {
+      "name": "MONTOURNAIS",
+      "email": "mairie@montournais.fr",
+      "postalcode": "85700"
+    },
+    "MONTREUIL": {
+      "name": "MONTREUIL",
+      "email": "mairie-montreuil85@wanadoo.fr",
+      "postalcode": "85200"
+    },
+    "MOREILLES": {
+      "name": "MOREILLES",
+      "email": "mairie-moreilles@wanadoo.fr",
+      "postalcode": "85450"
+    },
+    "MORMAISON": {
+      "name": "MORMAISON",
+      "email": "mairie.mormaison@wanadoo.fr",
+      "postalcode": "85260"
+    },
+    "MORTAGNE SUR SEVRE": {
+      "name": "MORTAGNE SUR SEVRE",
+      "email": "secretariat.general@mortagnesursevre.fr",
+      "postalcode": "85290"
+    },
+    "MOUCHAMPS": {
+      "name": "MOUCHAMPS",
+      "email": "mairie.mouchamps@wanadoo.fr",
+      "postalcode": "85640"
+    },
+    "MOUILLERON EN PAREDS": {
+      "name": "MOUILLERON EN PAREDS",
+      "email": "mairie-mouilleron-en-pareds@wanadoo.fr",
+      "postalcode": "85390"
+    },
+    "MOUILLERON LE CAPTIF": {
+      "name": "MOUILLERON LE CAPTIF",
+      "email": "info@mairie-mouilleronlecaptif.fr",
+      "postalcode": "85000"
+    },
+    "MOUTIERS LES MAUXFAITS": {
+      "name": "MOUTIERS LES MAUXFAITS",
+      "email": "mairie-moutiers.les.mauxfaits@wanadoo.fr",
+      "postalcode": "85540"
+    },
+    "MOUTIERS SUR LE LAY": {
+      "name": "MOUTIERS SUR LE LAY",
+      "email": "mairie.moutierssurlay@wanadoo.fr",
+      "postalcode": "85320"
+    },
+    "MOUZEUIL SAINT MARTIN": {
+      "name": "MOUZEUIL SAINT MARTIN",
+      "email": "mairie.mouzeuil@wanadoo.fr",
+      "postalcode": "85370"
+    },
+    "NALLIERS": {
+      "name": "NALLIERS",
+      "email": "nalliers.mairie@wanadoo.fr",
+      "postalcode": "85370"
+    },
+    "NESMY": {
+      "name": "NESMY",
+      "email": "mairie.nesmy@free.fr",
+      "postalcode": "85310"
+    },
+    "NIEUL LE DOLENT": {
+      "name": "NIEUL LE DOLENT",
+      "email": "mairie@nieul-le-dolent.fr",
+      "postalcode": "85430"
+    },
+    "NIEUL SUR L AUTISE": {
+      "name": "NIEUL SUR L AUTISE",
+      "email": "mairie@nieul-sur-lautise.fr",
+      "postalcode": "85240"
+    },
+    "NOIRMOUTIER EN L ILE": {
+      "name": "NOIRMOUTIER EN L ILE",
+      "email": "mairie@ville-noirmoutier.fr",
+      "postalcode": "85330"
+    },
+    "NOTRE DAME DE MONTS": {
+      "name": "NOTRE DAME DE MONTS",
+      "email": "mairie@notre-dame-de-monts.fr",
+      "postalcode": "85690"
+    },
+    "NOTRE DAME DE RIEZ": {
+      "name": "NOTRE DAME DE RIEZ",
+      "email": "mairie.nd.riez@free.fr",
+      "postalcode": "85270"
+    },
+    "OLONNE SUR MER": {
+      "name": "OLONNE SUR MER",
+      "email": "mairie@olonnesurmer.fr",
+      "postalcode": "85340"
+    },
+    "OULMES": {
+      "name": "OULMES",
+      "email": "mairie.oulmes@wanadoo.fr",
+      "postalcode": "85420"
+    },
+    "PALLUAU": {
+      "name": "PALLUAU",
+      "email": "mairie.palluau@wanadoo.fr",
+      "postalcode": "85670"
+    },
+    "PEAULT": {
+      "name": "PEAULT",
+      "email": "mairie.peault@wanadoo.fr",
+      "postalcode": "85320"
+    },
+    "PETOSSE": {
+      "name": "PETOSSE",
+      "email": "mairie-petosse@wanadoo.fr",
+      "postalcode": "85570"
+    },
+    "PISSOTTE": {
+      "name": "PISSOTTE",
+      "email": "mairie.de.pissotte@wanadoo.fr",
+      "postalcode": "85200"
+    },
+    "POIROUX": {
+      "name": "POIROUX",
+      "email": "mairie.poiroux@wanadoo.fr",
+      "postalcode": "85440"
+    },
+    "POUILLE": {
+      "name": "POUILLE",
+      "email": "mairiepouille85@wanadoo.fr",
+      "postalcode": "85570"
+    },
+    "POUZAUGES": {
+      "name": "POUZAUGES",
+      "email": "mairie@pouzauges.com",
+      "postalcode": "85700"
+    },
+    "PUY DE SERRE": {
+      "name": "PUY DE SERRE",
+      "email": "mairie.puydeserre@wanadoo.fr",
+      "postalcode": "85240"
+    },
+    "PUYRAVAULT": {
+      "name": "PUYRAVAULT",
+      "email": "mairie.puyravault85@wanadoo.fr",
+      "postalcode": "85450"
+    },
+    "REAUMUR": {
+      "name": "REAUMUR",
+      "email": "mairie@reaumur.fr",
+      "postalcode": "85700"
+    },
+    "ROCHESERVIERE": {
+      "name": "ROCHESERVIERE",
+      "email": "mairie@ville-rocheserviere.fr",
+      "postalcode": "85620"
+    },
+    "ROCHETREJOUX": {
+      "name": "ROCHETREJOUX",
+      "email": "mairie.rochetrejoux@wanadoo.fr",
+      "postalcode": "85510"
+    },
+    "ROSNAY": {
+      "name": "ROSNAY",
+      "email": "mairie.rosnay@wanadoo.fr",
+      "postalcode": "85320"
+    },
+    "SAINT ANDRE GOULE D OIE": {
+      "name": "SAINT ANDRE GOULE D OIE",
+      "email": "standre-goule-oie@wanadoo.fr",
+      "postalcode": "85250"
+    },
+    "SAINT ANDRE TREIZE VOIES": {
+      "name": "SAINT ANDRE TREIZE VOIES",
+      "email": "mairie.saint-andre-treize-voies@wanadoo.fr",
+      "postalcode": "85260"
+    },
+    "SAINT AUBIN DES ORMEAUX": {
+      "name": "SAINT AUBIN DES ORMEAUX",
+      "email": "mairie.st-aubin@wanadoo.fr",
+      "postalcode": "85130"
+    },
+    "SAINT AUBIN LA PLAINE": {
+      "name": "SAINT AUBIN LA PLAINE",
+      "email": "mairie.staubinlaplaine@wanadoo.fr",
+      "postalcode": "85210"
+    },
+    "SAINT AVAUGOURD DES LANDES": {
+      "name": "SAINT AVAUGOURD DES LANDES",
+      "email": "saint.avaugourd.des.landes@wanadoo.fr",
+      "postalcode": "85540"
+    },
+    "SAINT BENOIST SUR MER": {
+      "name": "SAINT BENOIST SUR MER",
+      "email": "mairie-saint-benoist-sur-mer@wanadoo.fr",
+      "postalcode": "85540"
+    },
+    "SAINT CHRISTOPHE DU LIGNERON": {
+      "name": "SAINT CHRISTOPHE DU LIGNERON",
+      "email": "mairie.stchristopheduligneron@wanadoo.fr",
+      "postalcode": "85670"
+    },
+    "SAINT CYR DES GATS": {
+      "name": "SAINT CYR DES GATS",
+      "email": "mairie.stcyrdesgats@wanadoo.fr",
+      "postalcode": "85410"
+    },
+    "SAINT CYR EN TALMONDAIS": {
+      "name": "SAINT CYR EN TALMONDAIS",
+      "email": "mairiestcyrentalmondais@wanadoo.fr",
+      "postalcode": "85540"
+    },
+    "SAINT DENIS DU PAYRE": {
+      "name": "SAINT DENIS DU PAYRE",
+      "email": "mairie.stdenisp@wanadoo.fr",
+      "postalcode": "85580"
+    },
+    "SAINT DENIS LA CHEVASSE": {
+      "name": "SAINT DENIS LA CHEVASSE",
+      "email": "mairie.st.denis.la.chevasse@wanadoo.fr",
+      "postalcode": "85170"
+    },
+    "SAINTE CECILE": {
+      "name": "SAINTE CECILE",
+      "email": "mairiestececile85@wanadoo.fr",
+      "postalcode": "85110"
+    },
+    "SAINTE FLAIVE DES LOUPS": {
+      "name": "SAINTE FLAIVE DES LOUPS",
+      "email": "mairie.sfdl@wanadoo.fr",
+      "postalcode": "85150"
+    },
+    "SAINTE FLORENCE": {
+      "name": "SAINTE FLORENCE",
+      "email": "mairie-ste-florence@wanadoo.fr",
+      "postalcode": "85140"
+    },
+    "SAINTE FOY": {
+      "name": "SAINTE FOY",
+      "email": "mairie-ste-foy-85@wanadoo.fr",
+      "postalcode": "85150"
+    },
+    "SAINTE GEMME LA PLAINE": {
+      "name": "SAINTE GEMME LA PLAINE",
+      "email": "mairie.gemme85@wanadoo.fr",
+      "postalcode": "85400"
+    },
+    "SAINTE HERMINE": {
+      "name": "SAINTE HERMINE",
+      "email": "ville-ste-hermine-85@wanadoo.fr",
+      "postalcode": "85210"
+    },
+    "SAINTE PEXINE": {
+      "name": "SAINTE PEXINE",
+      "email": "mairie-sainte-pexine@wanadoo.fr",
+      "postalcode": "85320"
+    },
+    "SAINTE RADEGONDE DES NOYERS": {
+      "name": "SAINTE RADEGONDE DES NOYERS",
+      "email": "mairie-ste-radegondaise@wanadoo.fr",
+      "postalcode": "85450"
+    },
+    "SAINT ETIENNE DE BRILLOUET": {
+      "name": "SAINT ETIENNE DE BRILLOUET",
+      "email": "mairie.saintetiennedebrillouet@wanadoo.fr",
+      "postalcode": "85210"
+    },
+    "SAINT ETIENNE DU BOIS": {
+      "name": "SAINT ETIENNE DU BOIS",
+      "email": "mairie@stetiennedubois-vendee.fr",
+      "postalcode": "85670"
+    },
+    "SAINT FLORENT DES BOIS": {
+      "name": "SAINT FLORENT DES BOIS",
+      "email": "mairie.saintflorentdesbois@orange.fr",
+      "postalcode": "85310"
+    },
+    "SAINT FULGENT": {
+      "name": "SAINT FULGENT",
+      "email": "mairie@saint-fulgent.fr",
+      "postalcode": "85250"
+    },
+    "SAINT GEORGES DE MONTAIGU": {
+      "name": "SAINT GEORGES DE MONTAIGU",
+      "email": "hotel.de.ville.st.georges.de.montaigu@wanadoo.fr",
+      "postalcode": "85600"
+    },
+    "SAINT GEORGES DE POINTINDOUX": {
+      "name": "SAINT GEORGES DE POINTINDOUX",
+      "email": "mairie.stgeorges.de.pointindoux@wanadoo.fr",
+      "postalcode": "85150"
+    },
+    "SAINT GERMAIN DE PRINCAY": {
+      "name": "SAINT GERMAIN DE PRINCAY",
+      "email": "mairie-st-germain-de-princay@wanadoo.fr",
+      "postalcode": "85110"
+    },
+    "SAINT GERMAIN L AIGUILLER": {
+      "name": "SAINT GERMAIN L AIGUILLER",
+      "email": "stgermainlaiguiller@wanadoo.fr",
+      "postalcode": "85390"
+    },
+    "SAINT GERVAIS": {
+      "name": "SAINT GERVAIS",
+      "email": "mairiestgervais@wanadoo.fr",
+      "postalcode": "85230"
+    },
+    "SAINT GILLES CROIX DE VIE": {
+      "name": "SAINT GILLES CROIX DE VIE",
+      "email": "info@saintgillescroixdevie.fr",
+      "postalcode": "85800"
+    },
+    "SAINT HILAIRE DE LOULAY": {
+      "name": "SAINT HILAIRE DE LOULAY",
+      "email": "contact.mairie@sainthilairedeloulay.fr",
+      "postalcode": "85600"
+    },
+    "SAINT HILAIRE DE RIEZ": {
+      "name": "SAINT HILAIRE DE RIEZ",
+      "email": "ville.st.hilaire.de.riez@wanadoo.fr",
+      "postalcode": "85270"
+    },
+    "SAINT HILAIRE DES LOGES": {
+      "name": "SAINT HILAIRE DES LOGES",
+      "email": "st-hilaire-des-loges@wanadoo.fr",
+      "postalcode": "85240"
+    },
+    "SAINT HILAIRE DE VOUST": {
+      "name": "SAINT HILAIRE DE VOUST",
+      "email": "mairiesainthilairedevoust@wanadoo.fr",
+      "postalcode": "85120"
+    },
+    "SAINT HILAIRE LA FORET": {
+      "name": "SAINT HILAIRE LA FORET",
+      "email": "mairiedesthilairelaforet@wanadoo.fr",
+      "postalcode": "85440"
+    },
+    "SAINT HILAIRE LE VOUHIS": {
+      "name": "SAINT HILAIRE LE VOUHIS",
+      "email": "mairie-st-hilaire-levouhis@wanadoo.fr",
+      "postalcode": "85480"
+    },
+    "SAINT JEAN DE BEUGNE": {
+      "name": "SAINT JEAN DE BEUGNE",
+      "email": "mairiestjeandebeugne@wanadoo.fr",
+      "postalcode": "85210"
+    },
+    "SAINT JEAN DE MONTS": {
+      "name": "SAINT JEAN DE MONTS",
+      "email": "mairie@mairie-saintjeandemonts.fr",
+      "postalcode": "85160"
+    },
+    "SAINT JUIRE CHAMPGILLON": {
+      "name": "SAINT JUIRE CHAMPGILLON",
+      "email": "mairie-st-juire-champgillon@orange.fr",
+      "postalcode": "85210"
+    },
+    "SAINT JULIEN DES LANDES": {
+      "name": "SAINT JULIEN DES LANDES",
+      "email": "mairie.stjuliendeslandes@wanadoo.fr",
+      "postalcode": "85150"
+    },
+    "SAINT LAURENT DE LA SALLE": {
+      "name": "SAINT LAURENT DE LA SALLE",
+      "email": "stlaurent.mairie@wanadoo.fr",
+      "postalcode": "85410"
+    },
+    "SAINT LAURENT SUR SEVRE": {
+      "name": "SAINT LAURENT SUR SEVRE",
+      "email": "mairie@saintlaurentsursevre.fr",
+      "postalcode": "85290"
+    },
+    "SAINT MAIXENT SUR VIE": {
+      "name": "SAINT MAIXENT SUR VIE",
+      "email": "mairiestmaixentsurvie@wanadoo.fr",
+      "postalcode": "85220"
+    },
+    "SAINT MALO DU BOIS": {
+      "name": "SAINT MALO DU BOIS",
+      "email": "mairie-de-st-malo@wanadoo.fr",
+      "postalcode": "85590"
+    },
+    "SAINT MARS LA REORTHE": {
+      "name": "SAINT MARS LA REORTHE",
+      "email": "mairie-smlr@wanadoo.fr",
+      "postalcode": "85590"
+    },
+    "SAINT MARTIN DE FRAIGNEAU": {
+      "name": "SAINT MARTIN DE FRAIGNEAU",
+      "email": "mairie.stmartindefraigneau@wanadoo.fr",
+      "postalcode": "85200"
+    },
+    "SAINT MARTIN DES FONTAINES": {
+      "name": "SAINT MARTIN DES FONTAINES",
+      "email": "st-martin-des-fontaines.mairie@wanadoo.fr",
+      "postalcode": "85570"
+    },
+    "SAINT MARTIN DES NOYERS": {
+      "name": "SAINT MARTIN DES NOYERS",
+      "email": "mairie-de-st-martin-des-noyers-85@wanadoo.fr",
+      "postalcode": "85140"
+    },
+    "SAINT MARTIN DES TILLEULS": {
+      "name": "SAINT MARTIN DES TILLEULS",
+      "email": "mairie.st-martin.til@wanadoo.fr",
+      "postalcode": "85130"
+    },
+    "SAINT MATHURIN": {
+      "name": "SAINT MATHURIN",
+      "email": "mairie.stmathurin@wanadoo.fr",
+      "postalcode": "85150"
+    },
+    "SAINT MAURICE DES NOUES": {
+      "name": "SAINT MAURICE DES NOUES",
+      "email": "cybercentre.maurice.noues@orange.fr",
+      "postalcode": "85120"
+    },
+    "SAINT MAURICE LE GIRARD": {
+      "name": "SAINT MAURICE LE GIRARD",
+      "email": "mairie-mauricegirard@wanadoo.fr",
+      "postalcode": "85390"
+    },
+    "SAINT MESMIN": {
+      "name": "SAINT MESMIN",
+      "email": "mairie.st.mesmin85@arios.fr",
+      "postalcode": "85700"
+    },
+    "SAINT MICHEL EN L HERM": {
+      "name": "SAINT MICHEL EN L HERM",
+      "email": "mairie.stmichelherm@wanadoo.fr",
+      "postalcode": "85580"
+    },
+    "SAINT MICHEL LE CLOUCQ": {
+      "name": "SAINT MICHEL LE CLOUCQ",
+      "email": "st-michel-le-cloucq.mairie@wanadoo.fr",
+      "postalcode": "85200"
+    },
+    "SAINT MICHEL MONT MERCURE": {
+      "name": "SAINT MICHEL MONT MERCURE",
+      "email": "mairie.stmichel.mercure@wanadoo.fr",
+      "postalcode": "85700"
+    },
+    "SAINT PAUL EN PAREDS": {
+      "name": "SAINT PAUL EN PAREDS",
+      "email": "mairie.stpaul-en-p@wanadoo.fr",
+      "postalcode": "85500"
+    },
+    "SAINT PAUL MONT PENIT": {
+      "name": "SAINT PAUL MONT PENIT",
+      "email": "mairie.stpaul.mtpenit@wanadoo.fr",
+      "postalcode": "85670"
+    },
+    "SAINT PHILBERT DE BOUAINE": {
+      "name": "SAINT PHILBERT DE BOUAINE",
+      "email": "mairie.bouaine@wanadoo.fr",
+      "postalcode": "85660"
+    },
+    "SAINT PIERRE DU CHEMIN": {
+      "name": "SAINT PIERRE DU CHEMIN",
+      "email": "mairie.ST-PIERRE-DU-CHEMIN@wanadoo.fr",
+      "postalcode": "85120"
+    },
+    "SAINT PIERRE LE VIEUX": {
+      "name": "SAINT PIERRE LE VIEUX",
+      "email": "mairie.st.pierre.vx@wanadoo.fr",
+      "postalcode": "85420"
+    },
+    "SAINT PROUANT": {
+      "name": "SAINT PROUANT",
+      "email": "mairieprouant@wanadoo.fr",
+      "postalcode": "85110"
+    },
+    "SAINT REVEREND": {
+      "name": "SAINT REVEREND",
+      "email": "mairie.saintreverend@wanadoo.fr",
+      "postalcode": "85220"
+    },
+    "SAINT SIGISMOND": {
+      "name": "SAINT SIGISMOND",
+      "email": "commune.stsigismond@wanadoo.fr",
+      "postalcode": "85420"
+    },
+    "SAINT SULPICE EN PAREDS": {
+      "name": "SAINT SULPICE EN PAREDS",
+      "email": "mairie.st-sulpice-en-pareds@wanadoo.fr",
+      "postalcode": "85410"
+    },
+    "SAINT SULPICE LE VERDON": {
+      "name": "SAINT SULPICE LE VERDON",
+      "email": "mairie.saintsulpiceleverdon@orange.fr",
+      "postalcode": "85260"
+    },
+    "SAINT URBAIN": {
+      "name": "SAINT URBAIN",
+      "email": "mairiesainturbain@free.fr",
+      "postalcode": "85230"
+    },
+    "SAINT VALERIEN": {
+      "name": "SAINT VALERIEN",
+      "email": "mairie.stvalerien85@wanadoo.fr",
+      "postalcode": "85570"
+    },
+    "SAINT VINCENT STERLANGES": {
+      "name": "SAINT VINCENT STERLANGES",
+      "email": "mairie.stvincentsterlanges@wanadoo.fr",
+      "postalcode": "85110"
+    },
+    "SAINT VINCENT SUR GRAON": {
+      "name": "SAINT VINCENT SUR GRAON",
+      "email": "mairie-stvincent.sur.graon@wanadoo.fr",
+      "postalcode": "85540"
+    },
+    "SAINT VINCENT SUR JARD": {
+      "name": "SAINT VINCENT SUR JARD",
+      "email": "mairie.st.vincent.sur.jard@wanadoo.fr",
+      "postalcode": "85520"
+    },
+    "SALIGNY": {
+      "name": "SALIGNY",
+      "email": "saligny85@free.fr",
+      "postalcode": "85170"
+    },
+    "SALLERTAINE": {
+      "name": "SALLERTAINE",
+      "email": "mairie.de.sallertaine@wanadoo.fr",
+      "postalcode": "85300"
+    },
+    "SERIGNE": {
+      "name": "SERIGNE",
+      "email": "mairie-serigne@wanadoo.fr",
+      "postalcode": "85200"
+    },
+    "SIGOURNAIS": {
+      "name": "SIGOURNAIS",
+      "email": "mairie.sigournais@wanadoo.fr",
+      "postalcode": "85110"
+    },
+    "SOULLANS": {
+      "name": "SOULLANS",
+      "email": "mairie.soullans@wanadoo.fr",
+      "postalcode": "85300"
+    },
+    "TALLUD SAINTE GEMME": {
+      "name": "TALLUD SAINTE GEMME",
+      "email": "mairietalludstegemme@wanadoo.fr",
+      "postalcode": "85390"
+    },
+    "TALMONT SAINT HILAIRE": {
+      "name": "TALMONT SAINT HILAIRE",
+      "email": "sec.elus@ville-talmont-st-hilaire.fr",
+      "postalcode": "85440"
+    },
+    "THIRE": {
+      "name": "THIRE",
+      "email": "commune.de.thire@wanadoo.fr",
+      "postalcode": "85210"
+    },
+    "THORIGNY": {
+      "name": "THORIGNY",
+      "email": "mairie.thorigny-mignon@orange.fr",
+      "postalcode": "85480"
+    },
+    "THOUARSAIS BOUILDROUX": {
+      "name": "THOUARSAIS BOUILDROUX",
+      "email": "thouarsais-bouildroux@wanadoo.fr",
+      "postalcode": "85410"
+    },
+    "TIFFAUGES": {
+      "name": "TIFFAUGES",
+      "email": "mairietiffauges@wanadoo.fr",
+      "postalcode": "85130"
+    },
+    "TREIZE SEPTIERS": {
+      "name": "TREIZE SEPTIERS",
+      "email": "mairie@treize-septiers.fr",
+      "postalcode": "85600"
+    },
+    "TREIZE VENTS": {
+      "name": "TREIZE VENTS",
+      "email": "mairie.treize.vents@wanadoo.fr",
+      "postalcode": "85590"
+    },
+    "TRIAIZE": {
+      "name": "TRIAIZE",
+      "email": "mairie.triaize@wanadoo.fr",
+      "postalcode": "85580"
+    },
+    "VAIRE": {
+      "name": "VAIRE",
+      "email": "mairie-de-vaire@wanadoo.fr",
+      "postalcode": "85150"
+    },
+    "VELLUIRE": {
+      "name": "VELLUIRE",
+      "email": "mairie-de-velluire@wanadoo.fr",
+      "postalcode": "85770"
+    },
+    "VENANSAULT": {
+      "name": "VENANSAULT",
+      "email": "mairie@venansault.com",
+      "postalcode": "85190"
+    },
+    "VENDRENNES": {
+      "name": "VENDRENNES",
+      "email": "mairie.vendrennes@wanadoo.fr",
+      "postalcode": "85250"
+    },
+    "VIX": {
+      "name": "VIX",
+      "email": "mairie.vix@wanadoo.fr",
+      "postalcode": "85770"
+    },
+    "VOUILLE LES MARAIS": {
+      "name": "VOUILLE LES MARAIS",
+      "email": "mairie.vouille-les-marais@wanadoo.fr",
+      "postalcode": "85450"
+    },
+    "VOUVANT": {
+      "name": "VOUVANT",
+      "email": "mairie.vouvant@wanadoo.fr",
+      "postalcode": "85120"
+    },
+    "XANTON CHASSENON": {
+      "name": "XANTON CHASSENON",
+      "email": "mairie.xanton@wanadoo.fr",
+      "postalcode": "85240"
+    }
+  },
+  "hauts_de_seine": {
+    "Le département des Hauts-de-Seine": {
+      "name": "Le département des Hauts-de-Seine",
+      "email": "",
+      "postalcode": null
+    },
+    "département des Hauts-de-Seine": {
+      "name": "département des Hauts-de-Seine",
+      "email": "",
+      "postalcode": null
+    },
+    "ANTONY": {
+      "name": "ANTONY",
+      "email": "webmaster@ville-antony.fr",
+      "postalcode": "92160"
+    },
+    "ASNIERES SUR SEINE": {
+      "name": "ASNIERES SUR SEINE",
+      "email": "info@ville-asnieressurseine.fr",
+      "postalcode": "92600"
+    },
+    "BAGNEUX": {
+      "name": "BAGNEUX",
+      "email": "contact@mairie-bagneux.fr",
+      "postalcode": "92220"
+    },
+    "BOIS COLOMBES": {
+      "name": "BOIS COLOMBES",
+      "email": "bois-colombes@bois-colombes.com",
+      "postalcode": "92270"
+    },
+    "BOULOGNE BILLANCOURT": {
+      "name": "BOULOGNE BILLANCOURT",
+      "email": "sce.communication@mairie-boulogne-billancourt.fr",
+      "postalcode": "92100"
+    },
+    "BOURG LA REINE": {
+      "name": "BOURG LA REINE",
+      "email": "mairie@bourg-la-reine.fr",
+      "postalcode": "92340"
+    },
+    "CHATENAY MALABRY": {
+      "name": "CHATENAY MALABRY",
+      "email": "infos@chatenay-malabry.fr",
+      "postalcode": "92290"
+    },
+    "CHATILLON": {
+      "name": "CHATILLON",
+      "email": "webmaster@ville-chatillon.fr",
+      "postalcode": "92320"
+    },
+    "CHAVILLE": {
+      "name": "CHAVILLE",
+      "email": "jean-levain@ville-chaville.fr",
+      "postalcode": "92370"
+    },
+    "CLAMART": {
+      "name": "CLAMART",
+      "email": "mairie@clamart.fr",
+      "postalcode": "92140"
+    },
+    "CLICHY LA GARENNE": {
+      "name": "CLICHY LA GARENNE",
+      "email": "info@ville-clichy.fr ",
+      "postalcode": "92110"
+    },
+    "COLOMBES": {
+      "name": "COLOMBES",
+      "email": "courrier@mairie-colombes.fr",
+      "postalcode": "92700"
+    },
+    "COURBEVOIE": {
+      "name": "COURBEVOIE",
+      "email": "courbevoie@ville-courbevoie.fr",
+      "postalcode": "92400"
+    },
+    "FONTENAY AUX ROSES": {
+      "name": "FONTENAY AUX ROSES",
+      "email": "mairie@fontenay-aux-roses.fr",
+      "postalcode": "92260"
+    },
+    "GARCHES": {
+      "name": "GARCHES",
+      "email": "info@ville-garches.fr",
+      "postalcode": "92380"
+    },
+    "GENNEVILLIERS": {
+      "name": "GENNEVILLIERS",
+      "email": "contact@ville-gennevilliers.fr",
+      "postalcode": "92230"
+    },
+    "ISSY LES MOULINEAUX": {
+      "name": "ISSY LES MOULINEAUX",
+      "email": "iris@ville-issy.fr",
+      "postalcode": "92130"
+    },
+    "LA GARENNE COLOMBES": {
+      "name": "LA GARENNE COLOMBES",
+      "email": "infomairie@lagarennecolombes.fr",
+      "postalcode": "92250"
+    },
+    "LE PLESSIS ROBINSON": {
+      "name": "LE PLESSIS ROBINSON",
+      "email": "mairie-plessis-robinson@wanadoo.fr",
+      "postalcode": "92350"
+    },
+    "LEVALLOIS PERRET": {
+      "name": "LEVALLOIS PERRET",
+      "email": "votre.maire@ville-levallois.fr",
+      "postalcode": "92300"
+    },
+    "MALAKOFF": {
+      "name": "MALAKOFF",
+      "email": "mairie@ville-malakoff.fr",
+      "postalcode": "92240"
+    },
+    "MARNES LA COQUETTE": {
+      "name": "MARNES LA COQUETTE",
+      "email": "mairiedemarnes@wanadoo.fr",
+      "postalcode": "92430"
+    },
+    "MEUDON": {
+      "name": "MEUDON",
+      "email": "accueil@mairie-meudon.fr",
+      "postalcode": "92360"
+    },
+    "MONTROUGE": {
+      "name": "MONTROUGE",
+      "email": "jean-loup.metton@ville-montrouge.fr",
+      "postalcode": "92120"
+    },
+    "NANTERRE": {
+      "name": "NANTERRE",
+      "email": "etat.civil@mairie-nanterre.fr",
+      "postalcode": "92000"
+    },
+    "NEUILLY SUR SEINE": {
+      "name": "NEUILLY SUR SEINE",
+      "email": "accueil-standard@ville-neuillysurseine.fr",
+      "postalcode": "92200"
+    },
+    "PUTEAUX": {
+      "name": "PUTEAUX",
+      "email": "info@mairie-puteaux.fr",
+      "postalcode": "92800"
+    },
+    "RUEIL MALMAISON": {
+      "name": "RUEIL MALMAISON",
+      "email": "info@mairie-rueilmalmaison.fr",
+      "postalcode": "92500"
+    },
+    "SAINT CLOUD": {
+      "name": "SAINT CLOUD",
+      "email": "direction-generale@saintcloud.fr",
+      "postalcode": "92210"
+    },
+    "SCEAUX": {
+      "name": "SCEAUX",
+      "email": "sceauxinfomairie@sceaux.fr",
+      "postalcode": "92330"
+    },
+    "SEVRES": {
+      "name": "SEVRES",
+      "email": "mairie@ville-sevres.fr",
+      "postalcode": "92310"
+    },
+    "SURESNES": {
+      "name": "SURESNES",
+      "email": "webmestre@ville-suresnes.fr",
+      "postalcode": "92150"
+    },
+    "VANVES": {
+      "name": "VANVES",
+      "email": "servicesmunicipaux@ville-vanves.fr",
+      "postalcode": "92170"
+    },
+    "VAUCRESSON": {
+      "name": "VAUCRESSON",
+      "email": "mairie@mairie-vaucresson.fr",
+      "postalcode": "92420"
+    },
+    "VILLE D AVRAY": {
+      "name": "VILLE D AVRAY",
+      "email": "info@mairie-villedavray.fr",
+      "postalcode": "92410"
+    },
+    "VILLENEUVE LA GARENNE": {
+      "name": "VILLENEUVE LA GARENNE",
+      "email": "contact@villeneuve92.com",
+      "postalcode": "92390"
+    }
+  },
+  "seine_saint_denis": {
+    "Communes et Mairies du département de Seine-Saint-Denis": {
+      "name": "Communes et Mairies du département de Seine-Saint-Denis",
+      "email": "",
+      "postalcode": null
+    },
+    "Le département de Seine-Saint-Denis": {
+      "name": "Le département de Seine-Saint-Denis",
+      "email": "",
+      "postalcode": null
+    },
+    "AUBERVILLIERS": {
+      "name": "AUBERVILLIERS",
+      "email": "secretariat-general@mairie-Aubervilliers.fr",
+      "postalcode": "93300"
+    },
+    "AULNAY SOUS BOIS": {
+      "name": "AULNAY SOUS BOIS",
+      "email": "comexterne@aulnay-sous-bois.com",
+      "postalcode": "93600"
+    },
+    "BAGNOLET": {
+      "name": "BAGNOLET",
+      "email": "mairie@ville-bagnolet.fr",
+      "postalcode": "93170"
+    },
+    "BOBIGNY": {
+      "name": "BOBIGNY",
+      "email": "comtown@comtown.com",
+      "postalcode": "93000"
+    },
+    "BONDY": {
+      "name": "BONDY",
+      "email": "cab-maire@ville-bondy.fr",
+      "postalcode": "93140"
+    },
+    "CLICHY SOUS BOIS": {
+      "name": "CLICHY SOUS BOIS",
+      "email": "webmaster@ville-clichy-sous-bois.fr",
+      "postalcode": "93390"
+    },
+    "COUBRON": {
+      "name": "COUBRON",
+      "email": "cabinet.maire@coubron.fr ",
+      "postalcode": "93470"
+    },
+    "DRANCY": {
+      "name": "DRANCY",
+      "email": "maire@drancy.fr",
+      "postalcode": "93700"
+    },
+    "DUGNY": {
+      "name": "DUGNY",
+      "email": "cabmaire@mairie-dugny.fr",
+      "postalcode": "93440"
+    },
+    "EPINAY SUR SEINE": {
+      "name": "EPINAY SUR SEINE",
+      "email": "communication@mairie-epinay93.fr",
+      "postalcode": "93800"
+    },
+    "GAGNY": {
+      "name": "GAGNY",
+      "email": "info@mairie-gagny.fr",
+      "postalcode": "93220"
+    },
+    "GOURNAY SUR MARNE": {
+      "name": "GOURNAY SUR MARNE",
+      "email": "c.gonnet@gournay-sur-marne.fr",
+      "postalcode": "93460"
+    },
+    "LA COURNEUVE": {
+      "name": "LA COURNEUVE",
+      "email": "maire@ville-la-courneuve.fr",
+      "postalcode": "93120"
+    },
+    "LE BLANC MESNIL": {
+      "name": "LE BLANC MESNIL",
+      "email": "lemensuel@ville-blanc-mesnil.fr",
+      "postalcode": "93150"
+    },
+    "LE BOURGET": {
+      "name": "LE BOURGET",
+      "email": "service.communication@ville-lebourget.fr",
+      "postalcode": "93350"
+    },
+    "LE PRE SAINT GERVAIS": {
+      "name": "LE PRE SAINT GERVAIS",
+      "email": "communication@ville-du-pre-saint-gervais.fr",
+      "postalcode": "93310"
+    },
+    "LE RAINCY": {
+      "name": "LE RAINCY",
+      "email": "leraincy@leraincy.com",
+      "postalcode": "93340"
+    },
+    "LES LILAS": {
+      "name": "LES LILAS",
+      "email": "ville@leslilas.fr",
+      "postalcode": "93260"
+    },
+    "LES PAVILLONS SOUS BOIS": {
+      "name": "LES PAVILLONS SOUS BOIS",
+      "email": "mairie@ville-pavillons-sous-bois.fr",
+      "postalcode": "93320"
+    },
+    "L ILE SAINT DENIS": {
+      "name": "L ILE SAINT DENIS",
+      "email": "mairie@lile-saint-denis.fr",
+      "postalcode": "93450"
+    },
+    "LIVRY GARGAN": {
+      "name": "LIVRY GARGAN",
+      "email": "courriermaire@ville-de-livry-gargan.fr",
+      "postalcode": "93190"
+    },
+    "MONTFERMEIL": {
+      "name": "MONTFERMEIL",
+      "email": "elus@ville-montfermeil.fr",
+      "postalcode": "93370"
+    },
+    "MONTREUIL": {
+      "name": "MONTREUIL",
+      "email": "site.internet@montreuil93.net",
+      "postalcode": "93100"
+    },
+    "NEUILLY PLAISANCE": {
+      "name": "NEUILLY PLAISANCE",
+      "email": "contact@mairie-neuillyplaisance.com",
+      "postalcode": "93360"
+    },
+    "NEUILLY SUR MARNE": {
+      "name": "NEUILLY SUR MARNE",
+      "email": "mairie.neuilly.marne@wanadoo.fr",
+      "postalcode": "93330"
+    },
+    "NOISY LE GRAND": {
+      "name": "NOISY LE GRAND",
+      "email": "mairie@ville-noisylegrand.fr",
+      "postalcode": "93160"
+    },
+    "NOISY LE SEC": {
+      "name": "NOISY LE SEC",
+      "email": "maire@noisylesec.fr",
+      "postalcode": "93130"
+    },
+    "PANTIN": {
+      "name": "PANTIN",
+      "email": "",
+      "postalcode": "93500"
+    },
+    "PIERREFITTE SUR SEINE": {
+      "name": "PIERREFITTE SUR SEINE",
+      "email": "mairie@mairie-pierrefitte-sur-seine.fr",
+      "postalcode": "93380"
+    },
+    "ROMAINVILLE": {
+      "name": "ROMAINVILLE",
+      "email": "courrier@ville-romainville.fr",
+      "postalcode": "93230"
+    },
+    "ROSNY SOUS BOIS": {
+      "name": "ROSNY SOUS BOIS",
+      "email": "courrier@mairie-rosny-sous-bois.fr",
+      "postalcode": "93110"
+    },
+    "SAINT DENIS": {
+      "name": "SAINT DENIS",
+      "email": "mairie.saint.denis@ville-saint-denis.fr",
+      "postalcode": "93200"
+    },
+    "SAINT OUEN": {
+      "name": "SAINT OUEN",
+      "email": "etat-civil@mairie-saint-ouen.fr",
+      "postalcode": "93400"
+    },
+    "SEVRAN": {
+      "name": "SEVRAN",
+      "email": "grp_accueil@ville-sevran.fr",
+      "postalcode": "93270"
+    },
+    "STAINS": {
+      "name": "STAINS",
+      "email": "courrier@stains.fr",
+      "postalcode": "93240"
+    },
+    "TREMBLAY EN FRANCE": {
+      "name": "TREMBLAY EN FRANCE",
+      "email": "services@tremblayenfrance.fr",
+      "postalcode": "93290"
+    },
+    "VAUJOURS": {
+      "name": "VAUJOURS",
+      "email": "contact@ville-vaujours.fr",
+      "postalcode": "93410"
+    },
+    "VILLEMOMBLE": {
+      "name": "VILLEMOMBLE",
+      "email": "secretariat-general@mairie-villemomble.fr",
+      "postalcode": "93250"
+    },
+    "VILLEPINTE": {
+      "name": "VILLEPINTE",
+      "email": "mairie@ville-villepinte.fr",
+      "postalcode": "93420"
+    },
+    "VILLETANEUSE": {
+      "name": "VILLETANEUSE",
+      "email": "communication@mairie-villetaneuse.fr",
+      "postalcode": "93430"
+    }
+  }
+}
