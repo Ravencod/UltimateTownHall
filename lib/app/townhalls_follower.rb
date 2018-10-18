@@ -3,7 +3,7 @@ require 'twitter'
 require 'json'
 require 'dotenv'
 
-Dotenv.load('../../.env')
+Dotenv.load('.env')
 
 #townhalls_follower.rb permet de follow sur twitte toutes les villes du json townhalls_contact
 
@@ -16,7 +16,7 @@ class Followers
 	#méthode qui extrait le json des villes dans un hash 
 	def extract_json
 		@handles = Hash.new
-		json = File.read('../../townhalls_contact.json')
+		json = File.read('db/townhalls_contact.json')
 	   	@handles = JSON.parse(json)
 	end 
 
