@@ -33,7 +33,7 @@ Puis dans un second temps on cherche à follow leur compte twitter et leur envoy
         ├── done.rb #Accompli une tâche
         └── index.rb #Affiche une interface utilisateur
 
-    
+```   
 ### Binôme :
 Noms | Pseudo Slack
 ------------ | -------------
