@@ -44,8 +44,8 @@ Jonathan Mete|@JonathanMete
 Axel Ringard|@Axel
 
 ### NOTES IMPORTANTES
-<ol>Pensez à bien lancer un<em>"bundle install"</em> une fois positionné dans le dossier avant de lancer le programme</li>
-             <p>Pour lancer le programme : index.rb</p>
+<ol>Pensez à bien lancer un <em>"bundle install"</em> une fois positionné dans le dossier avant de lancer le programme</li>
+             <p>Pour lancer le programme : app.rb</p>
 </ol>
 
 ### Bonne correction !   :poop:
