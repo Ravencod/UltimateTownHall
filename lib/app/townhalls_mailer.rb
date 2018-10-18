@@ -9,16 +9,16 @@ class Mailer
   end
 
   def send_emails
-    options = { :address              => "smtp.gmail.com",
-                :user_name            => 'hyppoleuleu@gmail.com',
-                :password             => '1234567huit!',
-                :authentication       => 'plain',
-                :enable_starttls_auto => true }
+    options = { address: 'smtp.gmail.com',
+                user_name: 'hyppoleuleu@gmail.com',
+                password: '1234567huit!',
+                authentication: 'plain',
+                enable_starttls_auto: true }
 
     i = 0
     @contacts.values.each do |dep|
       dep.values.each do |town|
-        print " - #{town['name'].capitalize}"
+        print ' - #{town['name'].capitalize}'
         Mail.defaults do
           delivery_method :smtp, options
         end
@@ -40,7 +40,6 @@ class Mailer
           end
         end
         i += 1
-        break if i > 5 ###### enlever !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
       end
     end
   end
